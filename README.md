@@ -12,7 +12,7 @@ Soy un técnico especilizado en ingeniería de software, graduado del año 2024,
   - **Bases de Datos:**
     <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
         <img src="https://virtual-dba.com/wp-content/uploads/mysql-database-services-remote-dba.png" alt="MySql" width="70"/>
-        <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" width="60"/>
+        <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" width="55"/>
     </div>
   - **Lenguajes de Programación:**
       <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
