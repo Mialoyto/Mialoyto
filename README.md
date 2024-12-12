@@ -7,7 +7,8 @@ vivere la emocion de crear cosas desde cero y desde hoy la noche 🌃se vuelve d
 ## Sobre mí
 💻 Estoy familiarizado con las siguientes tecnologías:
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="PHP" width="30"/> PHP
-- ![JavaScript](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_icon_130411.png) JavaScript
+- <img src="https://iconos8.es/icon/tGvHBPJaKqEd/javascript" alt="JS" width="30"/> JavaScript
+
 
 
 
