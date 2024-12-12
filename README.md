@@ -15,11 +15,11 @@ Me agrada el mundo de la tecnologia, desde chico me intereso el funcionamiento d
         <img src="https://www.dataprix.com/files/uploads/103image/logo_sqlserver.png" alt="SQL Server" width="60"/>
     </div>
 - **Front-End**
-<div style="display: flex; align-items: flex-end;">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_bootstrap_icon_130556.png" alt="Bootstrap" width="40"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_icon_1703473.png" alt="Tailwind" width="40"/>
-</div>
+    <div style="display: flex; align-items: flex-end;">
+        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_icon_1703473.png" alt="Tailwind" width="40"/>
+    </div>
 
 
 + 🛠️ Actualmente estoy aprendiendo []
