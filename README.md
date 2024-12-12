@@ -34,7 +34,7 @@ Soy un técnico especilizado en ingeniería de software, graduado del año 2024,
 + 🛠️ Actualmente estoy aprendiendo:
       <div style="display: flex; align-items: flex-end;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="50"/>
-          <img src="https://www.sommelierdecafe.com/wp-content/uploads/2009/06/java-logo1-1.png" alt="Java" width="50"/>
+          <img src="https://www.sommelierdecafe.com/wp-content/uploads/2009/06/java-logo1-1.png" alt="Java" width="30"/>
       </div>
 
 
