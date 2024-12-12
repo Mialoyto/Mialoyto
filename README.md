@@ -1,7 +1,8 @@
 # !Hola! 👋 Soy Alexander Loyola.
 Graduado de la carreta técnica de Ingeniería de Software con Inteligencia Artificial 🧑‍💻.
 Me agrada el mundo de la tecnologia, desde chico me intereso el funcionamiento de las aplicaciones, y ahora que estoy en este mundo 🌎 de la tecnologia me entusiasma mucho, vivere la emoción de crear cosas desde cero y desde hoy la noche 🌃se vuelve día y el día noche.😅
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Mialoyto&show_icons=true&theme=radical)
+
+  ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Mialoyto&show_icons=true&theme=radical)
 
 
 ## Sobre mí
