@@ -9,15 +9,19 @@ Me agrada el mundo de la tecnologia, desde chico me intereso el funcionamiento d
 Soy un técnico especilizado en ingeniería de software, graduado del año 2024, este lapso he adquirido experiencia en el modelado de base de datos relacional, el diseño de mi software con ideas plasmadas en wareframes, el diseño usando bootstrap 5. Estoy dispuesto a conocer nuevas tecnologias, y seguir aprendiendo mucho más.
 
 + 💻 Estoy familiarizado con las siguientes tecnologías:
-  - **Back-End:**
+  - **Bases de Datos:**
     <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="60"/>
         <img src="https://virtual-dba.com/wp-content/uploads/mysql-database-services-remote-dba.png" alt="MySql" width="60"/>
         <img src="https://www.dataprix.com/files/uploads/103image/logo_sqlserver.png" alt="SQL Server" width="60"/>
     </div>
-  - **Front-End:**
+  - **Lenguajes de Programación:**
       <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="60"/>
           <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40"/>
+      </div>
+  - **Desarrollo Web:**
+      <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML" width="40"/>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40"/>
           <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="Tailwind" width="40"/>
       </div>
