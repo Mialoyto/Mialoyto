@@ -1,4 +1,4 @@
-- 👋 Hola soy Alexander Loyola.
+#!Hola! 👋  soy Alexander Loyola.
 - 👀 Estoy interesado en aprender nuevas tecnologias.
 
 
