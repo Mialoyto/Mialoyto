@@ -23,8 +23,8 @@ Soy un técnico especilizado en ingeniería de software, graduado del año 2024,
       </div>
   - **Herramientas de Control de Versiones:**
     <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
-          <img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo.png" alt="Git" width="40"/>
-          <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="GitHub" width="40"/>
+          <img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo.png" alt="Git" width="50"/>
+          <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="GitHub" width="50"/>
       </div>
 
 + 🛠️ Actualmente estoy aprendiendo:
