@@ -17,13 +17,13 @@ Soy un técnico especilizado en ingeniería de software, graduado del año 2024,
   - **Lenguajes de Programación:**
       <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="60"/>
-          <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40"/>
+          <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="60"/>
       </div>
   - **Desarrollo Web:**
       <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
-          <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML" width="40"/>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40"/>
-          <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="Tailwind" width="40"/>
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML" width="60"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="60"/>
+          <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="Tailwind" width="60"/>
       </div>
   - **Herramientas de Control de Versiones:**
     <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
@@ -33,7 +33,7 @@ Soy un técnico especilizado en ingeniería de software, graduado del año 2024,
 
 + 🛠️ Actualmente estoy aprendiendo:
       <div style="display: flex; align-items: flex-end;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="60"/>
       </div>
 
 
