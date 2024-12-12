@@ -14,7 +14,7 @@ Me agrada el mundo de la tecnologia, desde chico me intereso el funcionamiento d
         <img src="https://www.dataprix.com/files/uploads/103image/logo_sqlserver.png" alt="SQL Server" width="60"/>
     </div>
   - **Front-End**
-      <div style="display: flex; align-items: flex-end;">
+      <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
           <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40"/>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40"/>
           <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="Tailwind" width="40"/>
