@@ -8,7 +8,7 @@ Me agrada el mundo de la tecnologia, desde chico me intereso el funcionamiento d
 ## Sobre mí
 + 💻 Estoy familiarizado con las siguientes tecnologías:
   - **Back-End**
-    <div style="display: flex; align-items:flex-end;">
+    <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="60"/>
         <img src="https://virtual-dba.com/wp-content/uploads/mysql-database-services-remote-dba.png" alt="MySql" width="60"/>
         <img src="https://www.dataprix.com/files/uploads/103image/logo_sqlserver.png" alt="SQL Server" width="60"/>
