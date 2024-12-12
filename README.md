@@ -20,8 +20,10 @@ Me agrada el mundo de la tecnologia, desde chico me intereso el funcionamiento d
           <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="Tailwind" width="40"/>
       </div>
 
-
-+ 🛠️ Actualmente estoy aprendiendo []
++ 🛠️ Actualmente estoy aprendiendo:
+      <div style="display: flex; align-items: flex-end;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="40"/>
+      </div>
 
 
 
