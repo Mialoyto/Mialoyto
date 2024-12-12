@@ -17,7 +17,7 @@ Soy un técnico especilizado en ingeniería de software, graduado del año 2024,
   - **Lenguajes de Programación:**
       <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="70"/>
-          <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="50"/>
+          <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="45"/>
       </div>
   - **Desarrollo Web:**
       <div style="display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;">
