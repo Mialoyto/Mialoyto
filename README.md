@@ -12,6 +12,9 @@ vivere la emocion de crear cosas desde cero y desde hoy la noche 🌃se vuelve d
 ```
 + 🛠️ Actualmente estoy aprendiendo []
 
++ ![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+
+
 
 
 
