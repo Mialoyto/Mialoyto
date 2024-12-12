@@ -1,4 +1,4 @@
-#!Hola! 👋 Soy Alexander Loyola.
+# !Hola! 👋 Soy Alexander Loyola.
 Graduado de la carreta técnica de Ingeniería de Software con Inteligencia Artificial 🧑‍💻.
 Me agrada el mundo de la tecnologia, desde chico me intereso el funcionamiento de las
 aplicaciones, y ahora que estoy en este mundo 🌎 de la tecnologia me entusiasma mucho, 
