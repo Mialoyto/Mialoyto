@@ -6,13 +6,13 @@ vivere la emocion de crear cosas desde cero y desde hoy la noche 🌃se vuelve d
 
 ## Sobre mí
 + 💻 Estoy familiarizado con las siguientes tecnologías:
-```markdown
+
       <div align="start"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="PHP" width="40"/></div>
       <div align="start"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JS" width="30"/></div>
   <div align="center"> 
         ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Mialoyto&show_icons=true&theme=radical)
   </div>
-```
+
 + 🛠️ Actualmente estoy aprendiendo []
 
 
