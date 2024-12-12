@@ -34,7 +34,7 @@ Soy un técnico especilizado en ingeniería de software, graduado del año 2024,
 + 🛠️ Actualmente estoy aprendiendo:
       <div style="display: flex; align-items: flex-end;">
           <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" width="50"/>
-          <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="50"/>
+          <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="60"/>
       </div>
 
 
